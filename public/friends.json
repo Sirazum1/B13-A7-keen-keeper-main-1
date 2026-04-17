@@ -1,0 +1,98 @@
+[
+  {
+    "id": 101,
+    "name": "Arif Hasan",
+    "picture": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=500&q=80",
+    "email": "arif.hasan@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["university", "tech"],
+    "bio": "We studied together and still discuss coding ideas, startups, and tech trends.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 102,
+    "name": "Nusrat Jahan",
+    "picture": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=500&q=80",
+    "email": "nusrat.jahan@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["friend", "coffee"],
+    "bio": "We catch up over coffee and talk about life, studies, and random stories.",
+    "goal": 14,
+    "next_due_date": "2026-04-29"
+  },
+ {
+  "id": 103,
+  "name": "Tanvir Ahmed",
+  "picture": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=500&q=80",
+  "email": "tanvir.ahmed@example.com",
+  "days_since_contact": 18,
+  "status": "overdue",
+  "tags": ["gym", "fitness"],
+  "bio": "We used to train together regularly and still motivate each other to stay fit.",
+  "goal": 10,
+  "next_due_date": "2026-04-12"
+},
+  {
+    "id": 104,
+    "name": "Farzana Rahman",
+    "picture": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?auto=format&fit=crop&w=500&q=80",
+    "email": "farzana.rahman@example.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["colleague", "design"],
+    "bio": "We collaborate on design projects and share creative ideas frequently.",
+    "goal": 12,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 105,
+    "name": "Rakib Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1552058544-f2b08422138a?auto=format&fit=crop&w=500&q=80",
+    "email": "rakib.chowdhury@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["school", "old friend"],
+    "bio": "We grew up together and still try to stay connected despite busy schedules.",
+    "goal": 10,
+    "next_due_date": "2026-04-13"
+  },
+  {
+    "id": 106,
+    "name": "Mehedi Islam",
+    "picture": "https://images.unsplash.com/photo-1545996124-0501ebae84d0?auto=format&fit=crop&w=500&q=80",
+    "email": "mehedi.islam@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gaming", "online"],
+    "bio": "We play games together and chat almost every week online.",
+    "goal": 14,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 107,
+    "name": "Sadia Karim",
+    "picture": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=500&q=80",
+    "email": "sadia.karim@example.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["mentor", "career"],
+    "bio": "She guides me in my career and we usually discuss goals and progress.",
+    "goal": 12,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 108,
+    "name": "Imran Hossain",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=80",
+    "email": "imran.hossain@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["travel", "photography"],
+    "bio": "We love traveling and sharing photography ideas and experiences.",
+    "goal": 10,
+    "next_due_date": "2026-04-24"
+  }
+]

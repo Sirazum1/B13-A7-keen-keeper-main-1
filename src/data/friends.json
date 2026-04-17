@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Maya Chen",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=80",
+    "email": "maya.chen@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "travel buddy"],
+    "bio": "We met during our software engineering program and still trade travel plans, startup ideas, and book recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 2,
+    "name": "Liam Parker",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=80",
+    "email": "liam.parker@example.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["work", "design"],
+    "bio": "Former teammate from a product design sprint. We usually catch up about side projects and new gadgets.",
+    "goal": 10,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 3,
+    "name": "Aisha Patel",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=500&q=80",
+    "email": "aisha.patel@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["book club", "neighbor"],
+    "bio": "Aisha and I run a tiny neighborhood book swap and always end up talking for hours about fiction.",
+    "goal": 12,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 4,
+    "name": "Marcus Johnson",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=500&q=80",
+    "email": "marcus.johnson@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["gym", "close friend"],
+    "bio": "We met at the gym years ago and still keep each other accountable for workouts and weekend hikes.",
+    "goal": 10,
+    "next_due_date": "2026-04-11"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Martinez",
+    "picture": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=500&q=80",
+    "email": "olivia.martinez@example.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["volunteer", "creative"],
+    "bio": "We volunteer together twice a month and usually end our shifts planning our next coffee catch-up.",
+    "goal": 9,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 6,
+    "name": "Ryan O'Brien",
+    "picture": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=500&q=80",
+    "email": "ryan.obrien@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gaming", "school"],
+    "bio": "Ryan and I grew up in the same neighborhood and still keep our old gaming nights alive online.",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 7,
+    "name": "Sarah Kim",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=500&q=80",
+    "email": "sarah.kim@example.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["mentor", "career"],
+    "bio": "Sarah helped me navigate my first job search, and now we check in about work, confidence, and goals.",
+    "goal": 12,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 8,
+    "name": "Tom Baker",
+    "picture": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?auto=format&fit=crop&w=500&q=80",
+    "email": "tom.baker@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["travel", "photography"],
+    "bio": "Tom is my go-to travel friend. We swap itineraries, photos, and random ideas for future trips.",
+    "goal": 10,
+    "next_due_date": "2026-04-21"
+  }
+]
